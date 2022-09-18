@@ -15,6 +15,6 @@ A [typeracer](https://play.typeracer.com/) bot made to auto type quotes given. M
 2. `cd typeracer-bot`
 8. `python3 main.py`
 
-https://www.loom.com/share/5c07af5a7f4a4f2391daa7abef919947
+https://www.loom.com/share/acaba99a4db9440492132e7f8fdb1a90
 
 > :warning: **This is against typeracers' TOS**: Use at your own risk!
