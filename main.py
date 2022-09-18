@@ -37,7 +37,7 @@ def type_quote():
         for word in quote:
             textInput.send_keys(word)
             time.sleep(0.06)  # Change delay to change wpm
-    except Exception as e:
+    except:
         # Keep on searching for the button, even when page switches and quotes aren't on screen.
         type_quote()
 
