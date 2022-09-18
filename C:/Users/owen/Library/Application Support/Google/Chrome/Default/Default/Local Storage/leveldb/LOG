@@ -1,3 +1,15 @@
-2022/09/18-18:56:57.222 3403 Reusing MANIFEST /Users/owen/All-Purpose/projects/python/selenium/C:/Users/owen/Library/Application Support/Google/Chrome/Default/Default/Local Storage/leveldb/MANIFEST-000001
-2022/09/18-18:56:57.228 3403 Recovering log #3
-2022/09/18-18:56:57.228 3403 Reusing old log /Users/owen/All-Purpose/projects/python/selenium/C:/Users/owen/Library/Application Support/Google/Chrome/Default/Default/Local Storage/leveldb/000003.log 
+2022/09/18-18:58:56.693 4e03 Reusing MANIFEST /Users/owen/All-Purpose/projects/python/selenium/C:/Users/owen/Library/Application Support/Google/Chrome/Default/Default/Local Storage/leveldb/MANIFEST-000001
+2022/09/18-18:58:56.694 4e03 Recovering log #3
+2022/09/18-18:58:56.695 4e03 Reusing old log /Users/owen/All-Purpose/projects/python/selenium/C:/Users/owen/Library/Application Support/Google/Chrome/Default/Default/Local Storage/leveldb/000003.log 
+2022/09/18-18:59:04.877 4903 Level-0 table #5: started
+2022/09/18-18:59:04.919 4903 Level-0 table #5: 366654 bytes OK
+2022/09/18-18:59:04.940 4903 Delete type=0 #3
+2022/09/18-19:03:30.578 4903 Level-0 table #7: started
+2022/09/18-19:03:30.598 4903 Level-0 table #7: 34660 bytes OK
+2022/09/18-19:03:30.634 4903 Delete type=0 #4
+2022/09/18-19:05:57.484 6b1f Level-0 table #9: started
+2022/09/18-19:05:57.503 6b1f Level-0 table #9: 34372 bytes OK
+2022/09/18-19:05:57.543 6b1f Delete type=0 #6
+2022/09/18-19:08:02.297 a807 Level-0 table #11: started
+2022/09/18-19:08:02.315 a807 Level-0 table #11: 34845 bytes OK
+2022/09/18-19:08:02.336 a807 Delete type=0 #8

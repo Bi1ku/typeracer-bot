@@ -4,7 +4,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium import webdriver
-import threading
 import time
 
 TIME_OUT = 1000
@@ -43,4 +42,4 @@ def type_quote():
         type_quote()
 
 
-threading.Thread(target=type_quote).start()
+type_quote()
