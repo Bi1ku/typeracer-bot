@@ -1,6 +1,6 @@
 # Typeracer-Bot 🚀
 
-A [typeracer](https://play.typeracer.com/) bot made to auto type quotes given. Made using selenium web crawler &amp; driver with recursion. It can be used within any typing gamemode in typeracer (e.g instant-death modes, practice, online races, etc.). Undetectable if going a few wpm above your average. 100% error free.
+A [typeracer](https://play.typeracer.com/) bot made to auto type quotes given. Made using selenium web crawler &amp; driver with recursion. It can be used within any typing gamemode in typeracer (e.g instant-death modes, practice, online races, etc.). Undetectable if going a ~30 wpm above your verified pace. 100% error free.
 <br>
 
 ### Prerequisites
